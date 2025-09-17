@@ -1,0 +1,19 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "chart.js",
+  "scripts": {
+    "start": "node chart.js",
+    "dev": "nodemon chart.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@iamtraction/google-translate": "^2.0.1",
+    "@vitalets/google-translate-api": "^9.2.1",
+    "nodemon": "^3.1.10"
+  }
+}
